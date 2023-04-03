@@ -12,18 +12,18 @@ Operations on Notes using SQFLITE.
 
 **Packages used:**
 
-  dartz
-  equatable
-  flutter_bloc
-  flutter_screenutil
-  flutter_svg
-  get
-  get_it
-  intl
-  sqflite
-  path
-  staggered_grid_view_flutter
-  flutter_launcher_icons
+- dartz
+- equatable
+- flutter_bloc
+- flutter_screenutil
+- flutter_svg
+- get
+- get_it
+- intl
+- sqflite
+- path
+- staggered_grid_view_flutter
+- flutter_launcher_icons
 
 ## Notes Home Video
 - [Notes App video](https://drive.google.com/file/d/1OlFfxBqpSU3d7Nq5y4QbTG3jLuVz9fb6/view?usp=share_link)
